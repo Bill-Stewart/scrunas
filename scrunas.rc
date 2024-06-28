@@ -1,0 +1,29 @@
+1 VERSIONINFO
+FILEVERSION 0,0,1,0
+PRODUCTVERSION 0,0,1,0
+FILEOS 0x4
+FILETYPE 1
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904E4"
+    {
+      VALUE "CompanyName", "Bill Stewart (bstewart at iname.com)"
+      VALUE "FileDescription", "scrunas.exe"
+      VALUE "FileVersion", "0.0.1.0"
+      VALUE "InternalName", "scrunas.exe"
+      VALUE "LegalCopyright", "(C) 2024 by Bill Stewart (bstewart at iname.com)"
+      VALUE "OriginalFilename", "scrunas.exe"
+      VALUE "ProductName", "scrunas.exe"
+      VALUE "ProductVersion", "0.0.1.0"
+    }
+  }
+
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 0x04E4
+  }
+}
+
+APPICON ICON "scrunas.ico"
+MAINICON ICON "scrunas.ico"
